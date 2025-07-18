@@ -22,7 +22,7 @@ export default function Contact() {
         opportunities to be part of your vision.{<br/>} Whether you have a question,
         want to collaborate, or just want to say hello, feel free to reach out!
       </p>
-    <div className="my-6  mt-20 flex justify-center items-center">
+    <div className="my-6  mt-20 flex justify-center items-center z-29">
             <a href="#" className="px-8 py-2 rounded-lg bg-gradient-to-r from-indigo-500 to-purple-500 text-white ">
                 Let&apos;s Connect
             </a>
